@@ -6,5 +6,5 @@ C_FLAGS = -O3 -DNDEBUG -fPIC   -Wall -Wextra -Wshadow -pedantic -Wcast-align -Wu
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/alberto/GitRepo/Micro-XRCE-DDS-Client/include -I/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/include -I/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c -isystem /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/temp_install/microcdr-2.0.0/include 
+C_INCLUDES = -I/module/wifi-img-streamer/Micro-XRCE-DDS-Client/include -I/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/include -I/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c -isystem /module/wifi-img-streamer/micro_xrce_dds_install/include 
 

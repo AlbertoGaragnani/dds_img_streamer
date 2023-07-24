@@ -12,4 +12,5 @@ cd ${full_path}
 export GAPY_OPENOCD_CABLE=interface/ftdi/olimex-arm-usb-ocd-h.cfg
 pip3 install numpy==1.22.3
 source /gap_sdk/configs/ai_deck.sh
+#make libmicroxrcedds
 make ${make_args}

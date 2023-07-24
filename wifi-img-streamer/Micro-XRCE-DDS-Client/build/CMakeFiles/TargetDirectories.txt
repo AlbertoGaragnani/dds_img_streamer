@@ -1,7 +1,7 @@
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/install/strip.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/install/local.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/install.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/list_install_components.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/rebuild_cache.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/edit_cache.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/microxrcedds_client.dir
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/install/strip.dir
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/install/local.dir
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/install.dir
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/list_install_components.dir
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/rebuild_cache.dir
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/edit_cache.dir
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/microxrcedds_client.dir

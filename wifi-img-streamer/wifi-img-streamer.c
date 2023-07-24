@@ -23,7 +23,6 @@
 #include <uxr/client/client.h>
 #include <ucdr/microcdr.h>
 
-
 // Macros
 #define CAM_WIDTH 324
 #define CAM_HEIGHT 244

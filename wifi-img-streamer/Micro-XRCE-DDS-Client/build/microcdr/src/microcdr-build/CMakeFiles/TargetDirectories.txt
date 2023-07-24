@@ -1,7 +1,0 @@
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/microcdr/src/microcdr-build/CMakeFiles/install/strip.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/microcdr/src/microcdr-build/CMakeFiles/install/local.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/microcdr/src/microcdr-build/CMakeFiles/install.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/microcdr/src/microcdr-build/CMakeFiles/list_install_components.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/microcdr/src/microcdr-build/CMakeFiles/rebuild_cache.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/microcdr/src/microcdr-build/CMakeFiles/edit_cache.dir
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/microcdr/src/microcdr-build/CMakeFiles/microcdr.dir

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/alberto/GitRepo/Micro-XRCE-DDS-Client
+CMAKE_SOURCE_DIR = /module/wifi-img-streamer/Micro-XRCE-DDS-Client
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build
+CMAKE_BINARY_DIR = /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build
 
 # Utility rule file for uclient.
 
@@ -64,54 +64,53 @@ CMakeFiles/uclient-complete: uclient-prefix/src/uclient-stamp/uclient-patch
 CMakeFiles/uclient-complete: uclient-prefix/src/uclient-stamp/uclient-configure
 CMakeFiles/uclient-complete: uclient-prefix/src/uclient-stamp/uclient-build
 CMakeFiles/uclient-complete: uclient-prefix/src/uclient-stamp/uclient-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'uclient'"
-	/usr/bin/cmake -E make_directory /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles
-	/usr/bin/cmake -E touch /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/uclient-complete
-	/usr/bin/cmake -E touch /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-done
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'uclient'"
+	/usr/bin/cmake -E make_directory /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles
+	/usr/bin/cmake -E touch /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/uclient-complete
+	/usr/bin/cmake -E touch /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-done
 
 uclient-prefix/src/uclient-stamp/uclient-install: uclient-prefix/src/uclient-stamp/uclient-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No install step for 'uclient'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No install step for 'uclient'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-install
+	/usr/bin/cmake -E touch /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-install
 
 uclient-prefix/src/uclient-stamp/uclient-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Creating directories for 'uclient'"
-	/usr/bin/cmake -E make_directory /home/alberto/GitRepo/Micro-XRCE-DDS-Client
-	/usr/bin/cmake -E make_directory /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build
-	/usr/bin/cmake -E make_directory /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix
-	/usr/bin/cmake -E make_directory /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/tmp
-	/usr/bin/cmake -E make_directory /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp
-	/usr/bin/cmake -E make_directory /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src
-	/usr/bin/cmake -E make_directory /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp
-	/usr/bin/cmake -E touch /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-mkdir
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Creating directories for 'uclient'"
+	/usr/bin/cmake -E make_directory /module/wifi-img-streamer/Micro-XRCE-DDS-Client
+	/usr/bin/cmake -E make_directory /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build
+	/usr/bin/cmake -E make_directory /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix
+	/usr/bin/cmake -E make_directory /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/tmp
+	/usr/bin/cmake -E make_directory /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp
+	/usr/bin/cmake -E make_directory /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src
+	/usr/bin/cmake -E make_directory /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp
+	/usr/bin/cmake -E touch /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-mkdir
 
 uclient-prefix/src/uclient-stamp/uclient-download: uclient-prefix/src/uclient-stamp/uclient-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "No download step for 'uclient'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "No download step for 'uclient'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-download
+	/usr/bin/cmake -E touch /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-download
 
 uclient-prefix/src/uclient-stamp/uclient-update: uclient-prefix/src/uclient-stamp/uclient-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No update step for 'uclient'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No update step for 'uclient'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-update
+	/usr/bin/cmake -E touch /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-update
 
 uclient-prefix/src/uclient-stamp/uclient-patch: uclient-prefix/src/uclient-stamp/uclient-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "No patch step for 'uclient'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "No patch step for 'uclient'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-patch
+	/usr/bin/cmake -E touch /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-patch
 
-uclient-prefix/src/uclient-stamp/uclient-configure: microcdr/src/microcdr-stamp/microcdr-done
 uclient-prefix/src/uclient-stamp/uclient-configure: uclient-prefix/tmp/uclient-cfgcmd.txt
 uclient-prefix/src/uclient-stamp/uclient-configure: uclient-prefix/src/uclient-stamp/uclient-update
 uclient-prefix/src/uclient-stamp/uclient-configure: uclient-prefix/src/uclient-stamp/uclient-patch
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Performing configure step for 'uclient'"
-	/usr/bin/cmake "-GUnix Makefiles" -C/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/tmp/uclient-cache-.cmake /home/alberto/GitRepo/Micro-XRCE-DDS-Client
-	/usr/bin/cmake -E touch /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-configure
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Performing configure step for 'uclient'"
+	/usr/bin/cmake "-GUnix Makefiles" -C/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/tmp/uclient-cache-.cmake /module/wifi-img-streamer/Micro-XRCE-DDS-Client
+	/usr/bin/cmake -E touch /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-configure
 
 uclient-prefix/src/uclient-stamp/uclient-build: uclient-prefix/src/uclient-stamp/uclient-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Performing build step for 'uclient'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Performing build step for 'uclient'"
 	$(MAKE)
-	/usr/bin/cmake -E touch /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-build
+	/usr/bin/cmake -E touch /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-build
 
 uclient: CMakeFiles/uclient
 uclient: CMakeFiles/uclient-complete
@@ -136,6 +135,6 @@ CMakeFiles/uclient.dir/clean:
 .PHONY : CMakeFiles/uclient.dir/clean
 
 CMakeFiles/uclient.dir/depend:
-	cd /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alberto/GitRepo/Micro-XRCE-DDS-Client /home/alberto/GitRepo/Micro-XRCE-DDS-Client /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/uclient.dir/DependInfo.cmake --color=$(COLOR)
+	cd /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /module/wifi-img-streamer/Micro-XRCE-DDS-Client /module/wifi-img-streamer/Micro-XRCE-DDS-Client /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/uclient.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uclient.dir/depend
 

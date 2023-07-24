@@ -394,17 +394,17 @@ stdint.h
 
 ../include/uxr/client/visibility.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/log/log_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/log/log_internal.h
 stdint.h
 -
 stddef.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header.c
 xrce_header_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
 stdint.h
 -
 stdbool.h
@@ -412,11 +412,11 @@ stdbool.h
 ucdr/microcdr.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader.c
 xrce_subheader_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
 stdint.h
 -
 stdbool.h
@@ -424,83 +424,83 @@ stdbool.h
 ucdr/microcdr.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_types.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_types.c
 uxr/client/core/type/xrce_types.h
 -
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities.c
 uxr/client/core/type/xrce_types.h
 -
 common_create_entities_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
 session_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
 session_info_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
 submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 uxr/client/profile/multithread/multithread.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
 uxr/client/core/session/common_create_entities.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/create_entities_bin.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/create_entities_bin.c
 uxr/client/core/session/create_entities_bin.h
 -
 uxr/client/core/type/xrce_types.h
 -
 common_create_entities_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
 ../../profile/shared_memory/shared_memory_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/create_entities_ref.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/create_entities_ref.c
 uxr/client/core/session/create_entities_ref.h
 -
 uxr/client/core/type/xrce_types.h
 -
 common_create_entities_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/create_entities_xml.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/create_entities_xml.c
 uxr/client/core/session/create_entities_xml.h
 -
 uxr/client/core/type/xrce_types.h
 -
 common_create_entities_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/common_create_entities_internal.h
 ../../profile/shared_memory/shared_memory_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/object_id.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/object_id.c
 uxr/client/core/session/object_id.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/read_access.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/read_access.c
 uxr/client/core/session/read_access.h
 -
 uxr/client/core/type/xrce_types.h
 -
 session_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
 session_info_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
 submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 uxr/client/profile/multithread/multithread.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session.c
 uxr/client/core/session/session.h
 -
 uxr/client/util/time.h
@@ -512,37 +512,37 @@ uxr/client/core/type/xrce_types.h
 uxr/client/config.h
 -
 submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 session_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
 session_info_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
 stream/stream_storage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage_internal.h
 stream/common_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
 stream/input_best_effort_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream_internal.h
 stream/input_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream_internal.h
 stream/output_best_effort_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream_internal.h
 stream/output_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
 stream/seq_num_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
 ../serialization/xrce_subheader_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
 ../log/log_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/log/log_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/log/log_internal.h
 ../../util/time_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/util/time_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/util/time_internal.h
 uxr/client/profile/multithread/multithread.h
 -
 ../../profile/shared_memory/shared_memory_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_info.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_info.c
 uxr/client/defines.h
 -
 uxr/client/core/session/object_id.h
@@ -552,25 +552,25 @@ uxr/client/core/type/xrce_types.h
 uxr/client/config.h
 -
 session_info_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
 submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 ../serialization/xrce_header_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
 uxr/client/core/session/session_info.h
 -
 ../serialization/xrce_header_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
 uxr/client/core/session/session.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
 uxr/client/core/session/stream/reliable_stream.h
 -
 stddef.h
@@ -582,15 +582,15 @@ stdint.h
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream.c
 input_best_effort_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream_internal.h
 seq_num_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
 uxr/client/profile/multithread/multithread.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream_internal.h
 uxr/client/core/session/stream/input_best_effort_stream.h
 -
 uxr/client/core/session/stream/seq_num.h
@@ -600,23 +600,23 @@ stdint.h
 stdbool.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream.c
 ucdr/microcdr.h
 -
 ./seq_num_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
 ./input_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream_internal.h
 ./common_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
 ../submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 uxr/client/profile/multithread/multithread.h
 -
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream_internal.h
 uxr/client/core/session/stream/input_reliable_stream.h
 -
 uxr/client/core/session/stream/seq_num.h
@@ -626,19 +626,19 @@ stdbool.h
 stddef.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream.c
 output_best_effort_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream_internal.h
 ../submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 seq_num_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
 uxr/client/profile/multithread/multithread.h
 -
 ucdr/microcdr.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream_internal.h
 uxr/client/core/session/stream/output_best_effort_stream.h
 -
 uxr/client/core/session/stream/seq_num.h
@@ -648,9 +648,9 @@ stddef.h
 stdbool.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream.c
 output_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
 uxr/client/config.h
 -
 ucdr/microcdr.h
@@ -658,17 +658,17 @@ ucdr/microcdr.h
 string.h
 -
 ./seq_num_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
 ./output_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
 ./common_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
 ../submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 uxr/client/profile/multithread/multithread.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
 uxr/client/core/session/stream/output_reliable_stream.h
 -
 uxr/client/core/session/stream/seq_num.h
@@ -678,37 +678,37 @@ stddef.h
 stdbool.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num.c
 seq_num_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
 stdint.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
 uxr/client/core/session/stream/seq_num.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_id.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_id.c
 uxr/client/core/session/stream/stream_id.h
 -
 ../../serialization/xrce_header_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage.c
 stream_storage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage_internal.h
 input_best_effort_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_best_effort_stream_internal.h
 input_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/input_reliable_stream_internal.h
 output_best_effort_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_best_effort_stream_internal.h
 output_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
 uxr/client/profile/multithread/multithread.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage_internal.h
 uxr/client/core/session/stream/stream_storage.h
 -
 uxr/client/core/session/stream/output_best_effort_stream.h
@@ -724,13 +724,13 @@ uxr/client/core/session/stream/stream_id.h
 uxr/client/config.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage.c
 submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 ../serialization/xrce_subheader_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 uxr/client/visibility.h
 -
 stdint.h
@@ -740,31 +740,31 @@ stdbool.h
 stddef.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/write_access.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/write_access.c
 uxr/client/core/session/write_access.h
 -
 uxr/client/core/type/xrce_types.h
 -
 session_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_internal.h
 session_info_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/session_info_internal.h
 submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 ./stream/output_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/output_reliable_stream_internal.h
 ./stream/common_reliable_stream_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/common_reliable_stream_internal.h
 ./stream/stream_storage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/stream_storage_internal.h
 ./stream/seq_num_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/stream/seq_num_internal.h
 uxr/client/profile/multithread/multithread.h
 -
 ../../profile/shared_memory/shared_memory_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/discovery/discovery.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/discovery/discovery.c
 uxr/client/profile/discovery/discovery.h
 -
 uxr/client/profile/transport/ip/ip.h
@@ -778,17 +778,17 @@ uxr/client/core/type/xrce_types.h
 uxr/client/util/time.h
 -
 ../../core/serialization/xrce_header_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
 ../../core/session/submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 ../../core/log/log_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/log/log_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/log/log_internal.h
 transport/udp_transport_datagram_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/udp_transport_datagram_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/udp_transport_datagram_internal.h
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/udp_transport_datagram_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/udp_transport_datagram_internal.h
 uxr/client/visibility.h
 -
 uxr/client/config.h
@@ -810,13 +810,13 @@ poll.h
 winsock2.h
 -
 FreeRTOS.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/FreeRTOS.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/FreeRTOS.h
 list.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/list.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/list.h
 FreeRTOS_IP.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/FreeRTOS_IP.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/FreeRTOS_IP.h
 FreeRTOS_Sockets.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/FreeRTOS_Sockets.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/FreeRTOS_Sockets.h
 sys/types.h
 -
 sys/select.h
@@ -824,9 +824,9 @@ sys/select.h
 sys/socket.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/udp_transport_datagram_posix.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/udp_transport_datagram_posix.c
 udp_transport_datagram_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/udp_transport_datagram_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/discovery/transport/udp_transport_datagram_internal.h
 arpa/inet.h
 -
 unistd.h
@@ -836,7 +836,7 @@ errno.h
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/shared_memory/shared_memory_internal.h
 uxr/client/config.h
 -
 uxr/client/visibility.h
@@ -846,7 +846,7 @@ uxr/client/core/session/session.h
 uxr/client/profile/multithread/multithread.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/custom/custom_transport.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/custom/custom_transport.c
 uxr/client/profile/transport/custom/custom_transport.h
 -
 uxr/client/profile/multithread/multithread.h
@@ -854,9 +854,9 @@ uxr/client/profile/multithread/multithread.h
 uxr/client/util/time.h
 -
 ../stream_framing/stream_framing_protocol.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/ip_posix.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/ip_posix.c
 uxr/client/profile/transport/ip/ip.h
 -
 uxr/client/config.h
@@ -866,23 +866,23 @@ arpa/inet.h
 sys/socket.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport.c
 uxr/client/profile/multithread/multithread.h
 -
 tcp_transport_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport_internal.h
 uxr/client/util/time.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport_internal.h
 uxr/client/profile/transport/ip/tcp/tcp_transport.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport_posix.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport_posix.c
 uxr/client/profile/transport/ip/tcp/tcp_transport_posix.h
 -
 tcp_transport_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/tcp/tcp_transport_internal.h
 arpa/inet.h
 -
 unistd.h
@@ -896,21 +896,21 @@ signal.h
 netdb.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport.c
 uxr/client/profile/multithread/multithread.h
 -
 udp_transport_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport_internal.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport_internal.h
 uxr/client/profile/transport/ip/udp/udp_transport.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport_posix.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport_posix.c
 uxr/client/profile/transport/ip/udp/udp_transport_posix.h
 -
 udp_transport_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/ip/udp/udp_transport_internal.h
 arpa/inet.h
 -
 unistd.h
@@ -922,17 +922,17 @@ errno.h
 netdb.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/serial/serial_transport.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/serial/serial_transport.c
 uxr/client/profile/transport/serial/serial_transport_platform.h
 -
 uxr/client/profile/multithread/multithread.h
 -
 ../stream_framing/stream_framing_protocol.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.h
 uxr/client/util/time.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/serial/serial_transport_posix.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/serial/serial_transport_posix.c
 uxr/client/profile/transport/serial/serial_transport_posix.h
 -
 uxr/client/profile/transport/serial/serial_transport_platform.h
@@ -942,15 +942,15 @@ unistd.h
 errno.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.c
 uxr/client/util/time.h
 -
 stream_framing_protocol.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.h
 string.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/profile/transport/stream_framing/stream_framing_protocol.h
 uxr/client/profile/transport/stream_framing/stream_framing_protocol.h
 -
 stddef.h
@@ -958,7 +958,7 @@ stddef.h
 stdbool.h
 -
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/util/ping.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/util/ping.c
 uxr/client/util/ping.h
 -
 uxr/client/util/time.h
@@ -972,13 +972,13 @@ uxr/client/core/session/stream/seq_num.h
 uxr/client/profile/multithread/multithread.h
 -
 ../core/serialization/xrce_header_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_header_internal.h
 ../core/serialization/xrce_subheader_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/serialization/xrce_subheader_internal.h
 ../core/session/submessage_internal.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/core/session/submessage_internal.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/util/time.c
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/util/time.c
 uxr/client/util/time.h
 -
 uxr/client/config.h
@@ -988,21 +988,19 @@ time.h
 Windows.h
 -
 FreeRTOS.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/util/FreeRTOS.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/util/FreeRTOS.h
 task.h
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/util/task.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/util/task.h
 
-/home/alberto/GitRepo/Micro-XRCE-DDS-Client/src/c/util/time_internal.h
+/module/wifi-img-streamer/Micro-XRCE-DDS-Client/src/c/util/time_internal.h
 uxr/client/visibility.h
 -
 stdint.h
 -
 
-include/uxr/client/config.h
+/module/wifi-img-streamer/micro_xrce_dds_install/include/ucdr/config.h
 
-temp_install/microcdr-2.0.0/include/ucdr/config.h
-
-temp_install/microcdr-2.0.0/include/ucdr/microcdr.h
+/module/wifi-img-streamer/micro_xrce_dds_install/include/ucdr/microcdr.h
 ucdr/visibility.h
 -
 ucdr/config.h
@@ -1014,5 +1012,7 @@ stdbool.h
 stddef.h
 -
 
-temp_install/microcdr-2.0.0/include/ucdr/visibility.h
+/module/wifi-img-streamer/micro_xrce_dds_install/include/ucdr/visibility.h
+
+include/uxr/client/config.h
 

@@ -1,12 +1,5 @@
 # Hashes of file build rules.
-def33c69045f6bef7005fb6e151ae729 CMakeFiles/microcdr-complete
-500a27577542324d815aafd3fd6b2c61 microcdr/src/microcdr-stamp/microcdr-build
-733547e83277b4b09d194d20d1f26d30 microcdr/src/microcdr-stamp/microcdr-configure
-1315dc87e0695a2d534389d29ba353bf microcdr/src/microcdr-stamp/microcdr-download
-626a80cb57a98dd934ec89fef7df4706 microcdr/src/microcdr-stamp/microcdr-install
-c6fbe46c96a1d6861542ab148a0f7ed3 microcdr/src/microcdr-stamp/microcdr-mkdir
-fd05ce8442f11ce19d4b74642ecbec37 microcdr/src/microcdr-stamp/microcdr-patch
-63198637150a47845be3bf90d8362001 uclient-prefix/src/uclient-stamp/uclient-download
-61b6f6674af236720b9594f2c9c620a6 uclient-prefix/src/uclient-stamp/uclient-mkdir
-9c7e572af7929b7fdcb12f624d8cbc3a uclient-prefix/src/uclient-stamp/uclient-patch
-4390fd9ecf46ee1ad8b8a4851eda5765 uclient-prefix/src/uclient-stamp/uclient-update
+388b9b6e99715304e2b4e8231874d264 uclient-prefix/src/uclient-stamp/uclient-download
+9a07eb18261e703de01e84ca2f5c7ab7 uclient-prefix/src/uclient-stamp/uclient-mkdir
+97ec35a20af676736cd2025cffd6cf11 uclient-prefix/src/uclient-stamp/uclient-patch
+bbd1cff6821c75879063d51123395d34 uclient-prefix/src/uclient-stamp/uclient-update

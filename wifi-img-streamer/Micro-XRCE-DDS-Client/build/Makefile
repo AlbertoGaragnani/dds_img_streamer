@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/alberto/GitRepo/Micro-XRCE-DDS-Client
+CMAKE_SOURCE_DIR = /module/wifi-img-streamer/Micro-XRCE-DDS-Client
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build
+CMAKE_BINARY_DIR = /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -94,7 +94,7 @@ install/fast: preinstall/fast
 
 # Special rule for the target list_install_components
 list_install_components:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Available install components are: \"Unspecified\" \"libraries\" \"microcdr-2.0.0\""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Available install components are: \"Unspecified\" \"libraries\""
 .PHONY : list_install_components
 
 # Special rule for the target list_install_components
@@ -126,9 +126,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /module/wifi-img-streamer/Micro-XRCE-DDS-Client/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
