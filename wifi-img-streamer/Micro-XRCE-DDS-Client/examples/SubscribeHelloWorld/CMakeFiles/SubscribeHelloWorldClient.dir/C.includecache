@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/examples/SubscribeHelloWorld/HelloWorld.c
+HelloWorld.h
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/examples/SubscribeHelloWorld/HelloWorld.h
+ucdr/microcdr.h
+-
+string.h
+-
+
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/examples/SubscribeHelloWorld/HelloWorld.h
+stdint.h
+-
+stdbool.h
+-
+
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/examples/SubscribeHelloWorld/main.c
+HelloWorld.h
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/examples/SubscribeHelloWorld/HelloWorld.h
+uxr/client/client.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

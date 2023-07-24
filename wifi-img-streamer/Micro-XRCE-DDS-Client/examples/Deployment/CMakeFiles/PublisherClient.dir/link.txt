@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/PublisherClient.dir/publisher.c.o CMakeFiles/PublisherClient.dir/HelloWorld.c.o  -o PublisherClient  /usr/local/lib/libmicroxrcedds_client.a -Wl,--gc-section,--no-export-dynamic /usr/local/lib/libmicrocdr.a -lrt -lpthread 

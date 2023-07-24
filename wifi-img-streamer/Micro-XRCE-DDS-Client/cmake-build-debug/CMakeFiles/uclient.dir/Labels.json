@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/CMakeFiles/uclient"
+		},
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/CMakeFiles/uclient.rule"
+		},
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/CMakeFiles/uclient-complete.rule"
+		},
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/uclient-prefix/src/uclient-stamp/uclient-build.rule"
+		},
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/uclient-prefix/src/uclient-stamp/uclient-configure.rule"
+		},
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/uclient-prefix/src/uclient-stamp/uclient-download.rule"
+		},
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/uclient-prefix/src/uclient-stamp/uclient-install.rule"
+		},
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/uclient-prefix/src/uclient-stamp/uclient-mkdir.rule"
+		},
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/uclient-prefix/src/uclient-stamp/uclient-patch.rule"
+		},
+		{
+			"file" : "/home/alberto/GitRepo/Micro-XRCE-DDS-Client/cmake-build-debug/uclient-prefix/src/uclient-stamp/uclient-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"uclient"
+		],
+		"name" : "uclient"
+	}
+}

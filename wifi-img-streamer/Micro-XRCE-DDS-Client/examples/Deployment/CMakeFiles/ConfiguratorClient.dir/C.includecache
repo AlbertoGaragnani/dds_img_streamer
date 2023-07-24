@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/examples/Deployment/configurator_client.c
+uxr/client/client.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

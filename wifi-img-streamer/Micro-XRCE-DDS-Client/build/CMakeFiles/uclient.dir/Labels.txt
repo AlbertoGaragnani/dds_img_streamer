@@ -1,0 +1,13 @@
+# Target labels
+ uclient
+# Source files and their labels
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/uclient
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/uclient.rule
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/CMakeFiles/uclient-complete.rule
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-install.rule
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-mkdir.rule
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-download.rule
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-update.rule
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-patch.rule
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-configure.rule
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/uclient-prefix/src/uclient-stamp/uclient-build.rule

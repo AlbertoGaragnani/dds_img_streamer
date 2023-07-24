@@ -1,0 +1,1 @@
+cmd='/snap/clion/246/bin/cmake/linux/x64/bin/cmake;-GNinja;-C<TMP_DIR>/uclient-cache-$<CONFIG>.cmake;<SOURCE_DIR><SOURCE_SUBDIR>'

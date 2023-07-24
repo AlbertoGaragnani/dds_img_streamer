@@ -1,0 +1,8 @@
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/temp_install/microcdr-2.0.0/lib/libmicrocdr.a
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/temp_install/microcdr-2.0.0/include/ucdr/visibility.h
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/temp_install/microcdr-2.0.0/include/ucdr/microcdr.h
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/temp_install/microcdr-2.0.0/include/ucdr/config.h
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/temp_install/microcdr-2.0.0/share/microcdr/cmake/microcdrTargets.cmake
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/temp_install/microcdr-2.0.0/share/microcdr/cmake/microcdrTargets-release.cmake
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/temp_install/microcdr-2.0.0/share/microcdr/cmake/microcdrConfig.cmake
+/home/alberto/GitRepo/Micro-XRCE-DDS-Client/build/temp_install/microcdr-2.0.0/share/microcdr/cmake/microcdrConfigVersion.cmake
